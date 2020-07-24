@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "818479520348",
+    "firebase_url": "https://twitter-1ecbb.firebaseio.com",
+    "project_id": "twitter-1ecbb",
+    "storage_bucket": "twitter-1ecbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818479520348:android:0b52f1e916fac03288e499",
+        "android_client_info": {
+          "package_name": "com.example.twitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818479520348-io1johla73mks4j8vs7a4i5jdkfrf5gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXFn_iumjMGIlA8IDS3fmaun-7aDAnKVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818479520348-io1johla73mks4j8vs7a4i5jdkfrf5gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
